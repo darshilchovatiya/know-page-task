@@ -12,7 +12,7 @@ export default function homepage() {
             <div className="text1">
               <p className="uk1">ALL YOU NEED IS HERE</p>
               <h1 className="caption-heading">
-                Start your business with <br /> KNOX
+                Start your business with <br /> JASH
               </h1>
               <p className="uk2">
                 We provide high standard clean website for your business
