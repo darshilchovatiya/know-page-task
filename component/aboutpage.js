@@ -12,7 +12,7 @@ export default function aboutpage() {
             <div className="container">
               <div className="row1">
                 <div className="text">
-                  <p className="supheading text-center">Welcome to Jash</p>
+                  <p className="supheading text-center">Welcome to Knox</p>
                   <h2 className="section-heading text-center">
                     We Have The Best Solutions for
                     <br /> Your Business
