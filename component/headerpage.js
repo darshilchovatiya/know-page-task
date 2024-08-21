@@ -17,7 +17,7 @@ export default function headerpage() {
             <a href="#pricing">Pricing Plan</a>
             <a href="#work">Work</a>
             <button>
-              <a href="#talk">Let's Talk</a>
+              <a href="#talk">Let's go</a>
             </button>
           </div>
         </div>
